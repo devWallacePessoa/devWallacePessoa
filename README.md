@@ -6,8 +6,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/people/Wallace-Saymon/100014141208178/)
 <div align="center">
   <a href="https://github.com/devWallacePessoa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devwallacepessoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwallacepessoa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devwallacepessoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwallacepessoa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 #
 <div style="display: inline_block"><br>
