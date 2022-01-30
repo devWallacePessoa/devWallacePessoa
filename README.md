@@ -1,4 +1,3 @@
-<center>
 ### Hello World! Eu sou o Wallace 👋
 
 #
